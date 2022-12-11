@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * main - print "with proper grammer,but the outcome is a piece of art,"
- * Return: Always 0
+ * main - Entry Point 
+ * Description: print"with proper grammer,but the outcome is a piece of art,"
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
